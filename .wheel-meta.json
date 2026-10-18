@@ -1,0 +1,22 @@
+{
+  "wheel_id": 416,
+  "structure": "umbrella",
+  "slug": "unfairdismissallawyersaustralia-com-106",
+  "project": "unfair-dismissal-lawyers-sydney-how-to-choose-844083ff383efe7d6",
+  "parent_t1_ref": "unfairdismissallawyersaustralia-com-153",
+  "node_role": "feeder",
+  "money_target": "unfairdismissallawyersaustralia.com.au",
+  "primary_kw": "unfair dismissal lawyers sydney how to choose",
+  "intended_url": "https://sites-e470-2.web.app/unfair-dismissal-lawyers-sydney-how-to-choose-844083ff383efe7d6/",
+  "tier": "T2",
+  "writeback_nonce": "f86c0238d53b1386",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/unfairdismissallawyersaustralia-com-153/",
+      "anchor": "Unfair Dismissal Lawyers Sydney Your Rights: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
